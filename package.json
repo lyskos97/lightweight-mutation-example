@@ -1,5 +1,5 @@
 {
-  "name": "bank-product",
+  "name": "mutation-example",
   "version": "0.0.1",
   "main": "src/index.js",
   "repository": "git@gitlab.com:unie.kz/backend/bank-product-v2.git",
